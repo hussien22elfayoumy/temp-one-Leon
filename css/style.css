@@ -175,6 +175,7 @@ header .links ul li a:hover {
     width: 30ch;
     text-align: center;
     line-height: var(--p-line-height);
+    color: #fff;
 }
 
 /* end landing section  */
